@@ -1,0 +1,31 @@
+h1{
+    color: green;
+    text-align: center;
+}
+p{
+    color: rgb(0, 155, 155);
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: yellow;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    border: 3px solid rgb(255,19,19)
+    /* margin: 150px 0 150px 50px; */
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-bottom: 0;
+    /* padding: 50px; */
+    /* padding-right:50;
+    padding-left: 150px; */
+}
+span{
+    /* color:green; */
+    /*background-color: pink;*/
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}

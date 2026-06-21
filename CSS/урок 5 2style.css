@@ -1,0 +1,112 @@
+/* p{
+    color: blue
+}
+
+.highlight{
+    color: red;
+    background-color: blue;
+}
+
+#special{
+    color: green;
+} */
+
+
+/* ul > li{
+    color: blue;
+}
+
+li + li{
+    border-top: 1px solid black;
+}
+
+.note ~ p{
+    color: red;
+} */
+
+
+/* .highlight.second{
+    color: red;
+}
+
+div.secure{
+    background-color: green;
+    color: white;
+}
+span.secure{
+    background-color: blue;
+    color: #ffffff;
+}
+
+.first .inner{
+    background-color: yellow;
+    color: black;
+} */
+
+
+/* 
+ATTRIBUTE SELECTORS
+input[type="number"]{
+    background-color: yellow;
+    color: red;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+
+
+input[checked]{
+    outline: 2px solid red;
+}
+
+
+
+input[disabled]{
+    background-color: green;
+    border-radius: 5px;
+} */
+
+
+
+
+/* 
+PSEUDO CLASSES
+a:hover{
+    color: red;
+    text-transform: uppercase;
+}
+
+input:focus{
+    background-color: black;
+}
+
+li:first-child{
+    color: orange;
+    text-decoration: underline;
+}
+li:last-child{
+    color: purple;
+} */
+
+
+p::before{
+    content: "😂 ";
+
+}
+
+p::after{
+    content: "! 😂";
+    color: red;
+    
+}
+
+
+
+input::placeholder{
+    color: green;
+    font-style: italic;
+}
+
+input{
+    color: brown;
+}
